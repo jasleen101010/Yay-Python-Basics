@@ -1,0 +1,11 @@
+Assignment Quesions
+
+1. List Comprehension, Dictionary Comprehension 
+
+2. Functions and lambda functions
+
+3. Classes and objects
+
+4. Constructors, Destructors
+
+5. Multilevel and heirarchical inheritance
