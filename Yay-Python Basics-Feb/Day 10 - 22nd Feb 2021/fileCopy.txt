@@ -1,0 +1,6 @@
+This a File I created using Python.
+I'm using Multi-Line String.
+Have a Nice Day Ahead
+File End
+
+Appending New Information to Existing File
